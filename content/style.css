@@ -3,3 +3,14 @@ html {
     font-family: Helvetica, sans-serif;
 
 }
+
+.header {
+    margin: 0;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
+
+.logo {
+    height: 50px;
+    padding: 10px;
+}
