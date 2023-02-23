@@ -8,6 +8,7 @@ html {
     margin: 0;
     height: 69px;
     border-bottom: 1px solid seashell;
+    display: inline-block;
 }
 
 .logo {
